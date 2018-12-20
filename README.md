@@ -26,7 +26,7 @@ Task 3: Evaluation (one for each technique)
  
    b. Sort X in descending order based on the values of attribute ols (the example with the highest ols value/the example that is the most likely outlier should be the first entry in X)! 3 pts
     
-    c. Visualize the first 7% of the observations in X, just displaying their x and y value and the class using a different color for each class, in a display and the remaining 93% of the observations in a second display. In general, the first display visualizes the outliers and the second display visualizes the normal observations in the dataset. 3 pts
+   c. Visualize the first 7% of the observations in X, just displaying their x and y value and the class using a different color for each class, in a display and the remaining 93% of the observations in a second display. In general, the first display visualizes the outliers and the second display visualizes the normal observations in the dataset. 3 pts
   
   d. Visualize the first 14% of the observations in X, just displaying the x and y value and the class using a different color for each class and the remaining 86% of the observations in a second display.  3 pts
   
